@@ -1,0 +1,7 @@
+body{
+    display: grid;
+    place-items: center;
+    padding: 1rem;
+    border: solid 4px  black;
+    color: red
+}
